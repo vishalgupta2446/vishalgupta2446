@@ -1,74 +1,120 @@
 <h1 align="center">Hi, I'm Vishal Gupta 👋</h1>
-<h3 align="center">Full-Stack Developer · C# / ASP.NET Core · React / TypeScript</h3>
+<h3 align="center">Senior Full Stack .NET Developer · 6+ years · C# · ASP.NET Core · Blazor · React · Angular · Azure / AWS</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/vishalgupta2446"><img src="https://img.shields.io/badge/LinkedIn-vishalgupta2446-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vishalgupta10oct@gmail.com"><img src="https://img.shields.io/badge/Email-vishalgupta10oct%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-4B5563?logo=googlemaps&logoColor=white" alt="Gurugram, India" />
 </p>
 
 ---
 
-> 💼 **Open to work:** I'm looking for full-stack **.NET + React** developer roles. Feel free to reach out!
+> 💼 **Open to opportunities:** I'm looking for Senior Full Stack .NET roles. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vishalgupta2446) or by [email](mailto:vishalgupta10oct@gmail.com).
 
 ### 🧑‍💻 About me
 
-- I build full-stack web applications with **ASP.NET Core** on the backend and **React + TypeScript** on the frontend.
-- I care about **clean, layered architecture**, keeping **business rules covered by tests**, and building **UIs that are simple and intuitive**.
-- I work with relational data using **SQL** and **Entity Framework Core**.
-- 📫 You can reach me at **vishalgupta10oct@gmail.com**.
+- I'm a **Senior Full Stack .NET Developer** with **6+ years** of experience building scalable enterprise applications. I currently work at **Acuity Analytics**.
+- On the backend I work with **C#, .NET 8, ASP.NET Core Web API, microservices, EF Core and Dapper**. On the frontend I build with **Blazor (Telerik), React + TypeScript and Angular**.
+- I've delivered products in **financial analytics, HR / talent management, pharmacovigilance, healthcare and automation tooling**.
+- I deploy and run applications on **Azure** (App Services, Function Apps, Azure DevOps CI/CD) and **AWS** (EC2, RDS, S3, Lambda, Cognito, CloudWatch).
+- I'm currently prototyping **AI-assisted features**: LLM chatbots, **RAG** pipelines (chunking, embeddings, vector search) and **MCP** tool calling.
+- Most of my professional work lives in private enterprise repositories. The public repos here are personal projects.
 
 ### 🛠️ Tech stack
 
 **Backend**<br/>
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-4B5563)
+![Microservices](https://img.shields.io/badge/Microservices-0F766E)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
 **Frontend**<br/>
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Telerik UI](https://img.shields.io/badge/Telerik%20UI-5CE500?logo=progress&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-**Testing & tools**<br/>
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?logo=dotnet&logoColor=white)
+**Databases**<br/>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+**Cloud & DevOps**<br/>
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
 
-### 🚀 Featured projects
+**AI**<br/>
+![LLMs](https://img.shields.io/badge/LLMs-6B21A8)
+![RAG](https://img.shields.io/badge/RAG-7C3AED)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-8B5CF6)
+![MCP](https://img.shields.io/badge/MCP-A855F7)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)
 
-#### [Eventful — Event Management](https://github.com/vishalgupta1998/event-management)
+**Architecture:** Microservices · Clean Architecture · Repository pattern · CQRS · Mediator · REST / OpenAPI · Agile
 
-A full-stack app for managing events and attendee registrations.
+### 💼 Experience
 
-- **Backend:** an ASP.NET Core (.NET 10) REST API with a layered design (controllers, service, repository). Business-rule failures come back as standard RFC 9457 error responses with clear error codes.
-- **Business rules:** no registering for past events, no going over capacity, and no registering the same person twice. Concurrent requests are handled safely, so two people can't both take the last seat.
-- **Tests:** 36 xUnit unit and integration tests, including a test that sends many registrations at once, and a fake clock so date rules are tested reliably. CI runs on GitHub Actions.
-- **Frontend:** React 19 + TypeScript + TanStack Query, with caching and targeted refreshes after each change, client and server validation, and a layout that works on phones, with dark mode.
+| Company | Role | Period |
+| --- | --- | --- |
+| **Acuity Analytics** | Full Stack Developer / .NET Developer | Sep 2022 – Present |
+| **Cognizant Technology Solutions** | Full Stack Developer / .NET Developer | May 2021 – Sep 2022 |
+| **SQE Labs** | Software Engineer | Oct 2020 – May 2021 |
+| **Almatica Pharmaceuticals** | .NET Developer | Jun 2020 – Oct 2020 |
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet&logoColor=white" alt=".NET 10" />
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/xUnit-36%20tests-brightgreen" alt="36 tests" />
-</p>
+**Highlights**
+
+- 📈 **Financial analytics platform** (.NET Core, Blazor, Telerik, Redis, SQL Server, Azure)
+  - Built stock performance analysis, live stock-screening dashboards (P/E, P/B, P/S, dividend yield, sector analysis) and quarterly/annual factsheets.
+  - Built a Blazor UI available in English, Simplified Chinese and Traditional Chinese.
+  - Used Redis caching to speed up SQL Server data access, and ran the Azure DevOps CI/CD pipelines.
+- 🤖 **AI analytics assistant prototype**
+  - Designed an LLM chatbot that answers plain-English questions about stock data.
+  - Designed a RAG pipeline (document chunking, embeddings, semantic and vector search) so its answers are backed by real financial data.
+  - Designed how the assistant would call the platform's analytics features as tools via MCP.
+- 🧭 **Employee development (IDP) workflow portal** (React + TypeScript, .NET Core Web API, PostgreSQL, EF Core)
+  - Built role-based workflows for employees, managers and admins.
+  - Implemented **JWT and Okta SAML single sign-on**.
+  - Deployed it on **AWS** (EC2, RDS, S3, CloudWatch).
+- 💊 **Pharmacovigilance data platform** (.NET Core microservices, RabbitMQ, MongoDB, React)
+  - Built services that take in emails and pull data out of PDF forms, then validate it.
+  - Used a message queue (RabbitMQ) to pass data between services.
+  - Built a review UI showing which records were accepted and which were rejected.
+- ⚙️ **Automation workbench** (.NET Core Web API, Angular, MongoDB/GridFS)
+  - Moved the application from a single-customer to a multi-customer (multi-tenant) setup.
+  - Built Excel report generation and an Exchange email notification service.
+- 🏥 **Clinic management platform** (.NET Core API, Angular, SQL Server)
+  - Built REST APIs for appointment scheduling, patient records, prescriptions and invoices.
+
+### 🚀 Featured project
 
 #### [Canteen Ordering API](https://github.com/vishalgupta1998/canteen-ordering-api)
 
 A REST API for an office canteen: menu management, counter and desk orders, payments, and notifications as an order progresses.
 
-- **Built with:** ASP.NET Core 9 and **Entity Framework Core** (SQLite, migrations applied on startup), with domain, application, data and API code kept in separate layers using the repository pattern.
-- **Security:** **JWT bearer authentication** with role-based authorization (admin endpoints) and **BCrypt** password hashing.
-- **Business rules:** orders with unavailable items, or desk orders while desk delivery is off, are rejected, and a completed payment confirms the order. Swagger UI is set up with JWT so every endpoint can be tried in the browser.
+- **Built with:** ASP.NET Core 9 and **EF Core** (SQLite, migrations applied on startup), with domain, application, data and API code kept in separate layers using the repository pattern.
+- **Security:** **JWT authentication** with role-based authorization and **BCrypt** password hashing.
+- **Swagger UI** is set up with JWT, so every endpoint can be tried in the browser.
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white" alt=".NET 9" />
-  <img src="https://img.shields.io/badge/EF%20Core-SQLite-003B57?logo=sqlite&logoColor=white" alt="EF Core" />
-  <img src="https://img.shields.io/badge/Auth-JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
+### 🏆 Awards
+
+- **Extra Miler**, Acuity Analytics (2025)
+- **Acuity Digi Star**, Acuity Analytics (2024)
+- **Most Valuable Team**, Acuity Analytics (2023)
+
+### 🎓 Education
+
+**Bachelor of Engineering, Computer Science**, Chandigarh University (2016 – 2020)
