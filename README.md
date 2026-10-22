@@ -101,7 +101,7 @@
 
 ### 🚀 Featured project
 
-#### [Canteen Ordering API](https://github.com/vishalgupta1998/canteen-ordering-api)
+#### [Canteen Ordering API](https://github.com/vishalgupta2446/canteen-ordering-api)
 
 A REST API for an office canteen: menu management, counter and desk orders, payments, and notifications as an order progresses.
 
