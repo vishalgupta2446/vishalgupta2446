@@ -7,6 +7,8 @@
 
 ---
 
+> 💼 **Open to work:** I'm looking for full-stack **.NET + React** developer roles. Feel free to reach out!
+
 ### 🧑‍💻 About me
 
 - I build full-stack web applications with **ASP.NET Core** on the backend and **React + TypeScript** on the frontend.
@@ -36,9 +38,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
 #### [Eventful — Event Management](https://github.com/vishalgupta1998/event-management)
 
@@ -54,4 +57,18 @@ A full-stack app for managing events and attendee registrations.
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React 19" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/xUnit-36%20tests-brightgreen" alt="36 tests" />
+</p>
+
+#### [Canteen Ordering API](https://github.com/vishalgupta1998/canteen-ordering-api)
+
+A REST API for an office canteen: menu management, counter and desk orders, payments, and notifications as an order progresses.
+
+- **Built with:** ASP.NET Core 9 and **Entity Framework Core** (SQLite, migrations applied on startup), with domain, application, data and API code kept in separate layers using the repository pattern.
+- **Security:** **JWT bearer authentication** with role-based authorization (admin endpoints) and **BCrypt** password hashing.
+- **Business rules:** orders with unavailable items, or desk orders while desk delivery is off, are rejected, and a completed payment confirms the order. Swagger UI is set up with JWT so every endpoint can be tried in the browser.
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white" alt=".NET 9" />
+  <img src="https://img.shields.io/badge/EF%20Core-SQLite-003B57?logo=sqlite&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/Auth-JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
