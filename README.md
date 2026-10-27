@@ -111,7 +111,7 @@ A REST API for an office canteen: menu management, counter and desk orders, paym
 
 ### 📜 Certifications
 
-- **[Microsoft Certified: Azure AI Cloud Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Vishal-2446/3F697FDB7C73BD7D?sharingId=138A57BA2E91A240)**, Microsoft (Oct 2026, valid until Oct 2027)
+- **[Microsoft Certified: Azure AI Cloud Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Vishalgupta2446/3F697FDB7C73BD7D?sharingId=138A57BA2E91A240)**, Microsoft (Oct 2026, valid until Oct 2027)
 
 ### 🏆 Awards
 
